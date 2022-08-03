@@ -8,7 +8,7 @@ Code is contained in two folders "deterministic" and "stochastic."  Within each 
 # Dependencies
 Code was run and tested using Python >=3.7.
 
-Dependencies include the packages numpy, pqdict, and pickle.  Code was run and tested on the most recent versions of these packages.
+Dependencies include the packages numpy, pqdict, and pickle.  Code was run and tested on the most recent versions of these packages (as of August 2022).
 
 # Running the code
 Code can be run using the included runfiles, though these can be customized to utilize any reasonable input.  Single simulation runs can take significant time and memory so it is suggested to use a computing cluster to generate figures similar to those in the main text.
